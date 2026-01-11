@@ -1,1 +1,1 @@
-FlyWithLua;2.8.12;FlyWithLua_NG_v2.8.12_Lin_Mac_Win.zip
+FlyWithLua;plugin;2.8.12;FlyWithLua_NG_v2.8.12_Lin_Mac_Win.zip
