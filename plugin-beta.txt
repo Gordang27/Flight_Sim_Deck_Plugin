@@ -1,1 +1,1 @@
-Flight Sim Deck Bridge;plugin;26.9.06;FlightSimDeckBridge-beta.zip
+Flight Sim Deck Bridge;plugin;26.9.08;FlightSimDeckBridge-beta.zip
