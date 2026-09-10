@@ -1,2 +1,2 @@
-FlyWithLua;plugin;2.8.12;FlyWithLua_NG_v2.8.12_Lin_Mac_Win.zip
+FlyWithLua;plugin;2.8.16;FlyWithLua_NG_v2.8.16_Lin_Mac_Win.zip
 Flight Sim Deck Bridge;plugin;26.3.17;FlightSimDeckBridge.zip
